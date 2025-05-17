@@ -68,9 +68,9 @@ Potatoes are vulnerable to several diseases which, if not caught early, can redu
 
 The activity diagram shows the complete user flow from login to report generation:
 
-![User Activity Diagram](/docs/diagrams/user_activity_diagram.png)
+![User Activity Diagram](assets/activity.png)
 
-[View full Activity Diagram](/docs/diagrams/user_activity_diagram.png)
+[View full Activity Diagram](assets/activity.png)
 
 ### 👤 Use Case Diagram
 
