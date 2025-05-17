@@ -76,33 +76,25 @@ The activity diagram shows the complete user flow from login to report generatio
 
 This diagram illustrates all possible interactions between users and the system:
 
-![Use Case Diagram](/docs/diagrams/use_case_diagram.png)
+![Use Case Diagram](assets/usecase.png)
 
-[View full Use Case Diagram](/docs/diagrams/use_case_diagram.png)
+[View full Use Case Diagram](assets/usecase.png)
 
 ### 📐 Class Diagram
 
 The class diagram shows the object-oriented structure of the application:
 
-![Class Diagram](/docs/diagrams/class_diagram.png)
+![Class Diagram](assets/class.png)
 
-[View full Class Diagram](/docs/diagrams/class_diagram.png)
+[View full Class Diagram](assets/class.png)
 
 ### ⏱️ Sequence Diagram
 
 This diagram demonstrates the sequence of interactions for disease detection:
 
-![Sequence Diagram](/docs/diagrams/sequence_diagram.png)
+![Sequence Diagram](assets/sequence.png)
 
-[View full Sequence Diagram](/docs/diagrams/sequence_diagram.png)
-
-### 🔄 State Diagram
-
-State transitions within the application:
-
-![State Diagram](/docs/diagrams/state_diagram.png)
-
-[View full State Diagram](/docs/diagrams/state_diagram.png)
+[View full Sequence Diagram](assets/sequence.png)
 
 ### 🏗️ Component Diagram
 
@@ -112,23 +104,14 @@ Shows the main components and their interconnections:
 
 [View full Component Diagram](/docs/diagrams/component_diagram.png)
 
-### 🌐 Deployment Diagram
-
-Illustrates how the application is deployed across different servers and devices:
-
-![Deployment Diagram](/docs/diagrams/deployment_diagram.png)
-
-[View full Deployment Diagram](/docs/diagrams/deployment_diagram.png)
-
 ## 📅 Project Timeline
 
 Check out the Gantt Chart for all 51 project tasks across 2024–2025:
 
-![Gantt Chart](/docs/project_management/gantt_chart.png)
+![Gantt Chart](assets/Gant Chart.png)
 
-[View full Gantt Chart](/docs/project_management/gantt_chart.png)
+[View full Gantt Chart](assets/Gant Chart.png)
 
-See full breakdown in [Schedule Table](/docs/project_management/schedule_table.md)
 
 ## 📈 Agile Development Sprints
 
@@ -148,7 +131,7 @@ Here are screenshots of the application in action:
 ### Authentication Screens
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In Screen](/docs/screenshots/sign_in_screen.png) | ![Sign Up Screen](/docs/screenshots/sign_up_screen.png) |
+| ![Sign In Screen](assets/signin.png) | ![Sign Up Screen](assets/sign up.png) |
 
 ### Main Navigation
 | Home Screen | Profile Page |
