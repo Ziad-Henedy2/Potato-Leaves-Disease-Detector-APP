@@ -100,17 +100,17 @@ This diagram demonstrates the sequence of interactions for disease detection:
 
 Shows the main components and their interconnections:
 
-![Component Diagram](/docs/diagrams/component_diagram.png)
+![Component Diagram](assets/systemarchitecture.png)
 
-[View full Component Diagram](/docs/diagrams/component_diagram.png)
+[View full Component Diagram](assets/systemarchitecture.png)
 
 ## 📅 Project Timeline
 
 Check out the Gantt Chart for all 51 project tasks across 2024–2025:
 
-![Gantt Chart](assets/Gant Chart.png)
+![Gantt Chart](assets/GantChart.png)
 
-[View full Gantt Chart](assets/Gant Chart.png)
+[View full Gantt Chart](assets/GantChart.png)
 
 
 ## 📈 Agile Development Sprints
@@ -131,29 +131,29 @@ Here are screenshots of the application in action:
 ### Authentication Screens
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In Screen](assets/signin.png) | ![Sign Up Screen](assets/sign up.png) |
+| ![Sign In Screen](assets/signin.png) | ![Sign Up Screen](assets/signup.png) |
 
 ### Main Navigation
 | Home Screen | Profile Page |
 |-------------|-------------|
-| ![Home Screen](/docs/screenshots/home_screen.png) | ![Profile Page](/docs/screenshots/profile_screen.png) |
+| ![Home Screen](assets/homescreen.png) | ![Profile Page](assets/profilescreen.png) |
 
 ### Disease Classification Process
 | Classification Page | Classification Results |
 |---------------------|------------------------|
-| ![Classification Page](/docs/screenshots/classification_page.png) | ![Classification Results](/docs/screenshots/classification_results.png) |
+| ![Classification Page](assets/upload_images.png) | ![Classification Results](assets/resultscreen.png) |
 
 ### Disease Detection Examples
 | Alternaria Solani | Phytophthora Infestans | Insect Damage | Virus Disease |
 |-------------------|------------------------|---------------|---------------|
-| ![Alternaria](/docs/screenshots/alternaria_detection.png) | ![Phytophthora](/docs/screenshots/phytophthora_detection.png) | ![Insect Damage](/docs/screenshots/insect_damage_detection.png) | ![Virus](/docs/screenshots/virus_detection.png) |
+| ![Alternaria](assets/alternaria_disease.png) | ![Phytophthora](assets/phytodisease.png) | ![Insect Damage](assets/insectdisease.png) | ![Virus](assets/virus_disease.png) |
 
 ### Report Generation
-| Report Creation | Final Report |
+| Report Creation | About Screen |
 |-----------------|-------------|
-| ![Report Creation](/docs/screenshots/report_creation.png) | ![Final Report](/docs/screenshots/final_report.png) |
+| ![Report Creation](assets/generate_report_screen.png) | ![About App](assets/about_app.png) |
 
-[View all screenshots](/docs/screenshots/)
+[View all screenshots](/assets)
 
 ## 📦 Installation & Running Locally
 
