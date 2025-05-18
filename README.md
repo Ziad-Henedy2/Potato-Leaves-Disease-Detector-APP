@@ -143,7 +143,7 @@ Here are screenshots of the application in action:
 |---------------------|------------------------|
 | ![Classification Page](assets/upload_images.png) | ![Classification Results](assets/resultscreen.png) |
 
-### Disease Detection Examples
+### Disease categories
 | Alternaria Solani | Phytophthora Infestans | Insect Damage | Virus Disease |
 |-------------------|------------------------|---------------|---------------|
 | ![Alternaria](assets/alternaria_disease.png) | ![Phytophthora](assets/phytodisease.png) | ![Insect Damage](assets/insectdisease.png) | ![Virus](assets/virus_disease.png) |
